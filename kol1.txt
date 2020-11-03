@@ -1,1 +1,3 @@
 Zmiana1
+Zmiana2
+Zmiana3
